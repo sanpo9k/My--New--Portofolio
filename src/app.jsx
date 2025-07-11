@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import PixelTransition from "./components/PixelTransition";
 import SkillBadge from "./components/SkillBadge";
 import ExperiencePage from "./Pages/ExperiencePage";
-import DotGrid from "./components/DotGrid";
 import DecryptedText from "./components/DecryptedText";
 import ProjectPage from "./Pages/ProjectPage";
 
